@@ -138,15 +138,16 @@
                 <div class="text-center">
                     <h2 class="text-2xl font-bold text-gray-800 mb-4">Jam Operasional</h2>
                     <div class="space-y-2">
-                        <p class="text-gray-600">Senin - Jumat: 08.00 - 22.00</p>
-                        <p class="text-gray-600">Sabtu - Minggu: 10.00 - 23.00</p>
+                        <p class="text-gray-600">Senin - Jumat: 09.00 - 22.00</p>
+                        <p class="text-gray-600">Sabtu: 10.00 - 23.59</p>
+                        <p class="text-gray-600">Minggu: <span class="text-red-600">Libur 24 Jam</span></p>
                     </div>
                 </div>
             </div>
 
             <!-- Google Maps Embed -->
             <div class="mt-20">
-                <h2 class="text-center text-xl font-semibold text-gray-700 mb-4">Lokasi Kami</h2>
+                <h2 class="text-center text-xl font-semibold text-gray-700 mb-4">Lokasi Kami Warung Kopi</h2>
                 <div class="relative w-full h-80">
                     <iframe class="w-full h-full rounded-lg shadow-lg"
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d987.2747456518942!2d114.37512841859532!3d-8.19278346937145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd145cfd7b82b3b%3A0x443e83f6f4e9cc3e!2sAMENK%20SALAD!5e0!3m2!1sen!2sid!4v1731639932760!5m2!1sen!2sid"
